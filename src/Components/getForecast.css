@@ -1,0 +1,40 @@
+.day1 {
+    position: absolute;
+    left: -25px;
+    top: 430px;
+  }
+  
+  .day2 {
+    position: absolute;
+    left: 100px;
+    top: 430px;
+  }
+  
+  .day3 {
+    position: absolute;
+    left: 225px;
+    top: 430px;
+  }
+  
+  .day4 {
+    position: absolute;
+    left: 350px;
+    top: 430px;
+  }
+  
+  .day5 {
+    position: absolute;
+    left: 475px;
+    top: 430px;
+  }
+
+  .App-header {
+    background-color: #282c34;
+    max-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
